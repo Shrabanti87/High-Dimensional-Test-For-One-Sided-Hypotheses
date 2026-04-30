@@ -3,5 +3,5 @@
 ### Simulation study.R 
 contains the code for simulation studies in the paper.
 
-### Data_analysis.R** 
+### Data_analysis.R
 contains the code for real data analysis in the paper. 
